@@ -114,8 +114,7 @@ int main (void)
 			  for (b = 0; b < sizeOfwebMatrix; b+=dimension)
 			  {
 				   printf(" %1.0f  ", *(mxGetPr(webMatrix) + a + b) );
-			  }
-			  printf("\n");
+			  }			  printf("\n");
 		  }
 		}
 		 

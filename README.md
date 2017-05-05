@@ -1,7 +1,6 @@
 # CPSC-259
 Computer Science 259 at the University of British Columbia
-
-### *Maze Solver*
+### Maze Solver
 
 #### Project Specifications
 Note: the framework for the code was given as part of a lab for the CPSC 259 course. 
@@ -10,7 +9,9 @@ Note: the framework for the code was given as part of a lab for the CPSC 259 cou
 Files containing symmetrical mazes of different dimensions made up by integers from 0 to 9 as the possible paths and * as barriers. The program generates all the possible paths, and determines the short and least expensive path.
 
 *Subjects:* recursion, depth first search, mazes, pointers, memory allocation, file processing
+
 *Language:* C
+
 *IDE:* Microsoft Visual Studio 2012
 
 *Detailed description*

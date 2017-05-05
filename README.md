@@ -1,9 +1,9 @@
 # CPSC-259
 Computer Science 259 at the University of British Columbia
 
-##** Maze Solver**
+**###Maze Solver**
 
-### Project Specifications
+#### Project Specifications
 Note: the framework for the code was given as part of a lab for the CPSC 259 course. 
 
 *Brief description*

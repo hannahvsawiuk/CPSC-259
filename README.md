@@ -22,9 +22,10 @@ Next, the shortest path is determined by comparing the string lengths of the pat
 
 ### PageRank
 #### Project Specifications
+Note: no framework was given
 *Brief description:* Computes the page ranks of a web of hyperlinked pages using the MATLAB engine
 
-*Subjects:*[PageRank]( http://www.cs.princeton.edu/~chazelle/courses/BIB/pagerank.htm), linear algebra, MATLAB, [dynamic memory allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation), [file processing](http://www.mycplus.com/tutorials/c-programming-tutorials/file-handling/), probability, [pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+*Subjects:* [PageRank]( http://www.cs.princeton.edu/~chazelle/courses/BIB/pagerank.htm), linear algebra, MATLAB, [dynamic memory allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation), [file processing](http://www.mycplus.com/tutorials/c-programming-tutorials/file-handling/), probability, [pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
 
 *Language:* C
 
